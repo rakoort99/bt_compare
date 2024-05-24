@@ -4,6 +4,8 @@ This repo stores the reproducible analysis for the following paper:
 
 > Bong, Heejong and Li, Wanshan and Shrotriya, Shamindra and Rinaldo, Alessandro. _"Nonparametric Estimation in the Dynamic Bradley-Terry Model"_ The 23rd International Conference on Artificial Intelligence and Statistics. 2020.
 
+My contributions are found in the file `analysis/simulations/rakoort_comparisons.ipynb`, in which I compare the model from the paper to the Trueskill model in a variety of spare data regimes.
+
 ### Reproducibility of Analysis
 
 For more details on how to reproduce the analysis in our paper, please see our detailed [wiki](https://github.com/shamindras/bttv-aistats2020/wiki) for step by step instructions. 
